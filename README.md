@@ -1,0 +1,2 @@
+# Softuni
+Softuni algorithms exercises
